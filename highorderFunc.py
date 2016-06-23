@@ -1,7 +1,5 @@
 def square(num):
 	return num*num
-
-
 #numbers=[1,2,3]
 #numbersqr=list(map(square,numbers))
 #print(numbersqr)

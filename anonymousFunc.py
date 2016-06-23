@@ -13,4 +13,4 @@ print(square(2))
 numbers=[1,2,3,4]
 
 numbersqr=list(map(lambda x:x*x,numbers))
-print(numbersqr)
+print(numbersqr) 
